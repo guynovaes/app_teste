@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 #ruby '2.5.1'
 
 gem 'devise'
-gem 'ruby-oci8'
+#gem 'ruby-oci8'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.0'
